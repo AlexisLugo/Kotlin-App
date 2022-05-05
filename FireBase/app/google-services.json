@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73548333832",
+    "project_id": "authenticationkotlin-711df",
+    "storage_bucket": "authenticationkotlin-711df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73548333832:android:5d81b3be6314c763b162bd",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73548333832-pduer8akpflphl4ph5r0ivionk13ghtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX5j2xSls9V1uFYK7YADlUdURnPU8cDoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73548333832-pduer8akpflphl4ph5r0ivionk13ghtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
